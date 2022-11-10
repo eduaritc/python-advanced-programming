@@ -1,0 +1,7 @@
+This is a file which is gonna be read by my python program.
+Or maybe not, cause... you know, software fails sometimes
+sometimes it doesn't but finding flawless software is really
+complicated, is almost utopic...
+# this is a comment in python language
+maybe this is no the right file for every single example here
+but this is what I came up with :P

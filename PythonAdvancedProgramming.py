@@ -128,5 +128,5 @@ print(my_dict4)
 list_with_duplicates = ['a', 'b', 'c', 'b', 'd', 'm', 'n', 'n']
 duplicate_values = list(set(item for item in list_with_duplicates if list_with_duplicates.count(item) > 1))
 print(duplicate_values)
-print('###########################################################')
+print('##############################hive#############################')
 
